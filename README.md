@@ -67,13 +67,6 @@ https://kruthidsatracker.netlify.app/
 
 ---
 
-## ⚙️ Installation
-
-Clone the repository
-
-```
-git clone https://github.com/yourusername/dsa-mentor.git
-```
 
 Install dependencies
 
